@@ -10,7 +10,7 @@ window.set_location(350,120)
 
 background = pyglet.shapes.Rectangle(0,0, 640, 640, color=(255,140,180,255))
 
-question = pyglet.text.Label('Quer namorar comigo?',
+question = pyglet.text.Label('Me da o cuzinho?',
                           font_name='Arial',
                           font_size=33,
                           x=100, y=520,
